@@ -1,0 +1,19 @@
+{
+  "name": "my-first-mern",
+  "version": "1.0.0",
+  "description": "This is my first MERN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Godwin-sys-php/My-First-Mern.git"
+  },
+  "author": "Godwin Burume",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Godwin-sys-php/My-First-Mern/issues"
+  },
+  "homepage": "https://github.com/Godwin-sys-php/My-First-Mern#readme"
+}
